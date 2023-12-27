@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState } from 'react'
 
 function App() {
   const [time, setTime] = useState(
@@ -18,4 +18,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
